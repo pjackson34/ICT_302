@@ -9,3 +9,5 @@ take the time to research and learn how to do new things, you can do whatever yo
 play sports such as pick-up basktball. Also, I am a HUGE baseball fan. I have played baseball since I was about 5 years old and I have loved it ever since. I 
 almost decided to play in college but I figured it was time to put that aside and focus on my education. My favorite team is the Cincinnati Reds, and I usually 
 go to Cincinnati in the summers to watch them play (even though it's tough being a Reds fan sometimes). 
+
+![Introduction Picture](https://competent-chandrasekhar-78911e.netlify.app/ICTpic.png)
