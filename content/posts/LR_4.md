@@ -9,4 +9,4 @@ draft: false
   laying out a plan for myself and following the steps I laid out. I still do not think we are able to compare and contrast content management systems 
   yet because we have not started our WordPress blogs yet. Lastly, I can identify key concepts in content management by knowing what can make a CMS
   either attract or push away customers by their strengths and weaknesses in regards to ease of use, design, compatability, flexibility, and other 
-  determining factors. 
+  determining factors.
