@@ -1,7 +1,7 @@
 baseURL = "http://competent-chandrasekhar-78911e.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "Mainroad-master"
 
 [build]
 publish = "public"
