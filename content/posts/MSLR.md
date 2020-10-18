@@ -5,3 +5,4 @@ draft: false
 ---
 ## Mid-Semester Learning Report
 - #### I can identify and define key concepts in (web) content management
+
