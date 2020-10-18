@@ -14,7 +14,7 @@ of these two variables can either make or break your project and how you want yo
 - #### I can describe and compare content management systems.
 I think after Week 8 this 'I can' statement became a lot easier for me to see and complete. We looked at a list of CMS's and had
 to choose 2 to examine and describe. I had never really thought about how many types of Content Management Systems were really out 
-there. I think the one I found the most intriguing was *Moodle.* This was an educational CMS tat reminded me a lot of something like
+there. I think the one I found the most intriguing was *Moodle.* This was an educational CMS that reminded me a lot of something like
 Canvas and Blackboard. They even had a tab where you could login as a fake student or teacher and see how it would work if you decided
 to use this CMS. In terms of WordPress and Hugo, I think WordPress may be a little more user friendly and easier to navigate for 
 someone who has never really used very many CMS's. 
