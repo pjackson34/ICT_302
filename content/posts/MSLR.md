@@ -20,7 +20,7 @@ to use this CMS. In terms of WordPress and Hugo, I think WordPress may be a litt
 someone who has never really used very many CMS's. 
 
 - #### I can manage content using established workflows.
-We have mainly completed this 'I can' statement rhough working with our groups. Earlier in the semester we met with our groups
+We have mainly completed this 'I can' statement through working with our groups. Earlier in the semester we met with our groups
 and created workflows to use in determining how we would complete our assignments each week. My group decided it was best to split
 up the group into 2 writers/editors, 2 developers, and an administrator. The writers and developers switch weeks on doing the blog 
 posts. We create a first draft of our blog, then we develop it and post it as a draft. An editor will then go through to make sure
