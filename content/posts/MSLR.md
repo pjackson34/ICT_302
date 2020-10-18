@@ -5,7 +5,7 @@ draft: false
 ---
 - #### I can identify and define key concepts in (web) content management.
 We have looked at many key concepts in Content Management Systems and how they are used in changing how your audience
-views your content. We have seen how effective peer review can be used to improve your content. We have looked at back-
+views your content. We have seen how effective peer review can be used to improve your content. We have looked at back
 end and front end development, to see how they work together to bring content to the point where it needs to be. I believe 
 the most important one we have looked at so far this semester is how presentation and content come together to make a page,
 a post, a blog, whatever it may be, into a piece of work that meets the standard your audience is looking for. The interdependence 
